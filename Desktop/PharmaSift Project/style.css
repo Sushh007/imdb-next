@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+body {
+font-family: 'Arial', sans-serif;
+text-align: center;
+margin: 50px;
+}
+
+.h1 {
+color: #3498db;
+}
+
+.button{
+    background-color: tomato;
+}
